@@ -1,2 +1,2 @@
 # calculadora_simples
-A simple calcuulator, made with Python.
+A simple calculator, made with Python.
